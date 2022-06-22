@@ -1,0 +1,50 @@
+@font-face {
+  font-family: "cairo-bold";
+  src: url("assets/fonts/Cairo-Bold.ttf");
+}
+
+@font-face {
+  font-family: "cairo-light";
+  src: url("assets/fonts/Cairo-Light.ttf");
+}
+
+@font-face {
+  font-family: "cairo-reg";
+  src: url("assets/fonts/Cairo-Regular.ttf");
+}
+
+.main-font {
+  font-family: "cairo-reg";
+}
+
+.main-font-bold {
+  font-family: "cairo-bold";
+}
+
+.size7-10 {
+  font-size: 0.7rem;
+}
+
+.bg-orange {
+  background-color: #f69c5d;
+}
+
+.bg-darkBlue {
+  background-color: #5260ab;
+}
+
+.bg-gray {
+  background-color: #979797;
+}
+
+.color-orange {
+  color: #f69c5d;
+}
+
+.color-darkBlue {
+  color: #5260ab;
+}
+
+.color-gray {
+  color: #979797;
+}
