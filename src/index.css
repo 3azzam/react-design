@@ -25,6 +25,10 @@
   font-size: 0.7rem;
 }
 
+.size8-10 {
+  font-size: 0.8rem;
+}
+
 .bg-orange {
   background-color: #f69c5d;
 }
@@ -45,6 +49,16 @@
   color: #5260ab;
 }
 
+.color-darkBlue300 {
+  color: #303A6C;
+}
+
 .color-gray {
   color: #979797;
+}
+
+
+.my-2rem {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }

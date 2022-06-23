@@ -19,7 +19,9 @@ const SubCard = ({ data }) => {
         className="p-3 position-sticky w-100 fixed-bottom"
         style={{ top: "100%" }}
       >
-        <button className=" w-100 btn text-white bg-darkBlue">انشاء حساب</button>
+        <button className=" bg-gray w-100 btn">
+          <span className="d-block my-1 text-white" > انضم الينا </span>
+        </button>
       </div>
     </div>
   );

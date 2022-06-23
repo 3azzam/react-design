@@ -17,7 +17,7 @@ const NavBar = () => {
             <div className="container-fluid">
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon">
-                        <i className="fas fa-bars" ></i>
+                        <i className="fas fa-bars" style={{fontSize:"26px"}} ></i>
                     </span>
                 </button>
                 <div className="collapse navbar-collapse" id="navbarNavDropdown">

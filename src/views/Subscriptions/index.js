@@ -26,7 +26,7 @@ const data = [
 
 const Subscriptions = () => {
     return (
-        <div className="container" >
+        <div className="container" style={{marginBottom:"5rem"}} >
             <h2 className="mb-4 text-white" > العضويات </h2>
             <div className="row" >
                 <div className="mb-2 col-12 col-sm-6 col-lg-3">

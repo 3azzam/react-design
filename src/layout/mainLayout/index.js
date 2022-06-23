@@ -1,5 +1,6 @@
 import NavBar from "../../components/navbar";
 import Subscriptions from "../../views/Subscriptions";
+import MainFooter from "../../components/mainFooter";
 
 const MainLayout = () => {
   return (
@@ -9,6 +10,9 @@ const MainLayout = () => {
         <NavBar />
       </div>
       <Subscriptions />
+      <div className="bg-white">
+        <MainFooter />
+      </div>
     </div>
   );
 };
