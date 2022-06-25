@@ -1,5 +1,6 @@
 import FreeCard from './freeCard'
-import SubCard from './subscribeCard';
+import SubCard from './subscribeCard'
+
 const data = [
     {
         id: 1,

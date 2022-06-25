@@ -1,3 +1,4 @@
+import MainHeader from '../../components/mainHeader'
 import NavBar from "../../components/navbar";
 import Subscriptions from "../../views/Subscriptions";
 import MainFooter from "../../components/mainFooter";
@@ -5,7 +6,7 @@ import MainFooter from "../../components/mainFooter";
 const MainLayout = () => {
   return (
     <div className="main-font" style={{ direction: "rtl" }}>
-      <p>weeeee</p>
+      <MainHeader/>
       <div className="container mb-5">
         <NavBar />
       </div>
